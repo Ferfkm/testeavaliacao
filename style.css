@@ -1,0 +1,59 @@
+body{
+  background-color: #A93BAB;
+}
+#logo{
+position: absolute;
+width: 124px;
+height: 126px;
+
+background: url(2794133-jovem-mulher-trabalhando-em-laptop-freelance-ou-estudando-conceito-cute-trendy-illustration-in-flat-style-gratis-vetor.jpg);
+border-radius: 142px;
+}
+.cabecalho{
+  background-color: #A93BAB
+}
+.menu{
+  position: absolute;
+width: 201px;
+height: 60px;
+left: 705px;
+top: 63px;
+
+font-family: 'Jockey One';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 50px;
+
+color: #00FFFF;
+}
+.menu1{
+  position: absolute;
+width: 201px;
+height: 60px;
+left: 957px;
+top: 63px;
+
+font-family: 'Jockey One';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 50px;
+
+color: #00FFFF;
+}
+.menu2{
+  position: absolute;
+width: 201px;
+height: 60px;
+left: 1132px;
+top: 63px;
+
+font-family: 'Jockey One';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 50px;
+
+color: #00FFFF;
+}
